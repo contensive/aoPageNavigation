@@ -1,0 +1,27 @@
+<Collection name="Page Navigation" guid="{C6CAB5DF-6D2C-40C7-A703-633D784AA112}" version="2">
+  <Interfaces>
+    <Page name='Page Navigation' guid='{033C1D6C-38FA-4F3B-9FFD-1B5DE2F8A972}'>
+      <Description>Page Navigation.</Description>
+      <Help>This is more complete instructions. This appears in the help bubble.</Help>
+      <HelpLink>http://www.Contensive.com</HelpLink>
+      <ArgumentList>PageNavigationType=[Section|Sister|Child|Sister Child]</ArgumentList>
+      <ArgumentList>TierMax=[0|1|2|3]</ArgumentList>
+      <ActiveXDLL>aoPageNavigation.DLL</ActiveXDLL>
+      <ActiveXProgramID>aoPageNavigation.PageNavigationClass</ActiveXProgramID>
+      <IconLink></IconLink>
+      <Template>true</Template>
+      <Content>true</Content>
+      <Admin>false</Admin>
+      <WebService/>
+      <JavaScriptOnLoad/>
+      <JavaScriptInHead/>
+      <JavaScriptBodyEnd/>
+      <PageTitle/>
+      <MetaDescription/>
+      <MetaKeywordList/>
+      <OtherHeadTags/>
+    </Page>	
+  </Interfaces>
+  <ContensiveCDef>
+</ContensiveCDef>
+</Collection>
